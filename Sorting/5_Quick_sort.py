@@ -4,6 +4,10 @@
 
 Quick Sort Algorithm: 
 
+** quick sort is just made of two things:
+1. partitions logic
+2. recursion logic
+
 Quick Sort is a highly efficient sorting algorithm and is 
 based on the divide-and-conquer approach. It works by selecting 
 a 'pivot' element from the array and partitioning the other elements
